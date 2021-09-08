@@ -15,7 +15,7 @@
 The purpose of this project is to showcase everything I have learned within the Full Stack Frameworks With Django modules of the Code Institute Full Stack Development course. A full list of technologies used can be found in the technologies section of this document.
 <br>
 <br>
-The purpose of the website is to ?????
+Pacific Plants is an e-commerce site that sells both indoor and outdoor plants. 
 <br>
 <br>
 Please see below for the link to the website.
@@ -27,19 +27,34 @@ https://?????.herokuapp.com/
 ## UX
 
 ### User Stories
-As an anonymous user I want to:
+As a casual user I want to:
 
-1. ?????
+* Easily navigate the site.
+* Search the site.
+* View all products available.
+* Filter the products by using categories.
+* Filter the products by price.
+* View individual product details.
+* Select quantity of a product.
+* View items and total cost in shopping cart.
+* Adjust quantity of product if needed.
+* Remove a product from the shopping cart. 
+* Receive confirmation when an action as been performed.
+* Easily enter payment information and checkout.
 <br>
 
 As a registered user I want to:
 
-1. ?????
+* Save my profile information for the next purchase
+* Edit my profile information.
+* Check my previous purchases.  
 <br>
 
 As an admin user I want to:
 
-1. ?????
+* Add a new product.
+* Edit an existing product.
+* Delete an existing product.
 
 ### Design
 
