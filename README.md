@@ -59,10 +59,16 @@ As an admin user I want to:
 ### Design
 
 #### Colour Scheme
-?????
+White - Navigation bar, background and button text.
+<br>
+Black - Navigation bar text.
+<br>
+Charcoal - Header and body text.
+<br>
+Green - Buttons, icons and footer.
 <br>
 #### Typography
-?????
+Oswald - This font will be used throughout the whole webpage, this is because it looks clean, professional and is easy to read.
 <br>
 #### Wireframes
 To see the wireframes for all pages on both desktop and mobile view please click the below link.
@@ -78,12 +84,15 @@ To see the wireframes for all pages on both desktop and mobile view please click
 * **CSS** - Used to style the project.
 * **JavaScript** - 
 * **Python** - Used to create the backend of the project.
+* **Django** - 
 * **JQuery** - 
 * **Bootstrap** - 
+* **Stripe** - 
 * **Font Awesome** - Used to import fonts and icons.
 * **GitHub** - Used to store code for the project.
 * **GitPod** - Used to create the code for the project.
 * **Heroku** - Used to deploy the project.
+* **Amazon Web Services** - 
 * **Google Chrome Developer Tools** - Used to inspect the web pages and debug any issues.
 * **Balsamiq Wireframes** - Used to create the wireframes for the project.
 <br>
