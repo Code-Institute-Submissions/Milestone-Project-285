@@ -1,0 +1,170 @@
+[
+    {
+      "pk": 1,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp5001340155",
+        "name": "Cactus",
+        "description": "A small cactus is a great starter plant or gift because it’s so easy to care for. It will tolerate lower light conditions, but thrives in sun, and needs very little water. Cacti would much rather be too dry than too wet. Try to make yours think it's in the desert.",
+        "price": 6.00,
+        "category": 1,
+        "rating": 4.6,
+        "image_url": "https://ibb.co/0mvXjQd",
+        "image": "cactus.jpg"
+      }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5001600425",
+          "name": "Euphorbia",
+          "description": "The euphorbia looks like the quintessential cactus, although it’s technically not one. As it grows, sometimes almost ten metres tall, its trunk becomes woody. Eventually, it becomes a strange, bulbous tree. Often it will flower and grow round, red fruit.",
+          "price": 50.00,
+          "category": 1,
+          "rating": 4.8,
+          "image_url": "https://ibb.co/dMQLPZQ",
+          "image": "euphorbia.jpg"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5001730010",
+          "name": "Asparagus Fern",
+          "description": "This elegant little indoor plant is native to South Africa, where it grows in soft clumps in steamy forests. It lives in the partial shade of larger trees, stretching out its fine leaves. In the wild it will flower in the spring with little bell-shaped blooms.",
+          "price": 10.00,
+          "category": 2,
+          "rating": 4.9,
+          "image_url": "https://ibb.co/BLqZ27W",
+          "image": "asparagus-fern.jpg"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5001890157",
+          "name": "Phlebodium Aureum",
+          "description": "This beautiful fern, with its soft blue-green leaves, is an epiphyte, a plant that grows on another plant. It can grow to enormous sizes, sometimes with leaves as long as 130cm. It won’t reach a fraction of that size indoors, you’ll be relieved to hear.",
+          "price": 12.00,
+          "category": 2,
+          "rating": 4.6,
+          "image_url": "https://ibb.co/64nm9KX",
+          "image": "phlebodium-aureum.jpg"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002111605",
+          "name": "Parlour Palm",
+          "description": "In the wild, you’ll find this plant growing primarily in Mexico and Guatemala, but it’s been beloved as an indoor plant around the world since Victorian times. For Victorians, the parlour was the best room in the house, where you would display your fanciest possessions.",
+          "price": 25.00,
+          "category": 3,
+          "rating": 5.0,
+          "image_url": "https://ibb.co/vDNbqvz",
+          "image": "parlour-palm.jpg"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002260206",
+          "name": "Strelitzia Nicolai",
+          "description": "Despite the name, this is not a banana tree. It gets its popular name because its leaves look very similar to those of a banana tree. Its other nickname is white bird of paradise, because of the enormous, exotic flowers that bloom on very mature plants in the wild.",
+          "price": 100.00,
+          "category": 3,
+          "rating": 4.9,
+          "image_url": "https://ibb.co/pwBztps",
+          "image": "strelitzia-nicolai.jpg"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002440521",
+          "name": "English Ivy",
+          "description": "There can hardly be a person in the UK who isn’t familiar with this plant. It grows up buildings, trees and anything else it can get its rootlets on. Although it’s known as English ivy, this climbing plant grows in all sorts of countries, including Portugal and Turkey.",
+          "price": 15.00,
+          "category": 4,
+          "rating": 4.8,
+          "image_url": "https://ibb.co/QYgmX3V",
+          "image": "english-ivy.jpg"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002601115",
+          "name": "Variegated English Ivy",
+          "description": "There can hardly be a person in the UK who isn’t familiar with this plant. It grows up buildings, trees and anything else it can get its rootlets on. Although it’s known as English ivy, this climbing plant grows in all sorts of countries, including Portugal and Turkey.",
+          "price": 6.00,
+          "category": 4,
+          "rating": 4.5,
+          "image_url": "https://ibb.co/z4xYQnk",
+          "image": "variegated-english-ivy.jpg"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002690715",
+          "name": "Chamaerops Humilis",
+          "description": "This is a plant that looks tropical but is perfectly ok with non-tropical conditions. It’s one of only two palms native to Europe and copes happily with British weather. Cold temperatures, wind and drought won’t phase it.",
+          "price": 35.00,
+          "category": 5,
+          "rating": 5.0,
+          "image_url": "https://ibb.co/KWt5Nrt",
+          "image": "chamaerops-humilis.jpg"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002701115",
+          "name": "Kentia Palm",
+          "description": "The Kentia palm originated on Lord Howe Island, a tiny piece of land off the east coast of Australia. The island gives the palm its botanical name, Howea forsteriana. It’s a slow grower that can take decades to reach its maximum height of 10 metres.",
+          "price": 100.00,
+          "category": 5,
+          "rating": 4.9,
+          "image_url": "https://ibb.co/WG181W6",
+          "image": "kentia-palm.jpg"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002761055",
+          "name": "Bay Tree",
+          "description": "The bay tree, or bay laurel, has been a beloved plant for centuries. The ancient Greeks and the ancient Romans considered it quite the status symbol. Wreaths of bay laurel were worn on the heads of the most important members of society and given as prizes in sporting competitions. Bay was a plant for champions.",
+          "price": 90.00,
+          "category": 6,
+          "rating": 4.8,
+          "image_url": "https://ibb.co/XW7bzt2",
+          "image": "bay-tree.jpg"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+          "sku": "pp5002820069",
+          "name": "Twist Bay Tree",
+          "description": "The bay tree, or bay laurel, has been a beloved plant for centuries. The ancient Greeks and the ancient Romans considered it quite the status symbol. Wreaths of bay laurel were worn on the heads of the most important members of society and given as prizes in sporting competitions. Bay was a plant for champions.",
+          "price": 70.00,
+          "category": 6,
+          "rating": 4.7,
+          "image_url": "https://ibb.co/m49GCj2",
+          "image": "twist-bay-tree.jpg"
+        }
+    }
+]

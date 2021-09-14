@@ -1,0 +1,50 @@
+[
+    {
+        "pk": 1,
+        "model": "products.category",
+        "fields": {
+            "name": "cacti",
+            "friendly_name": "Cacti"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.category",
+        "fields": {
+            "name": "ferns",
+            "friendly_name": "Ferns"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.category",
+        "fields": {
+            "name": "indoor_trees",
+            "friendly_name": "Indoor Trees"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.category",
+        "fields": {
+            "name": "hanging",
+            "friendly_name": "Hanging"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.category",
+        "fields": {
+            "name": "palms",
+            "friendly_name": "Palms"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.category",
+        "fields": {
+            "name": "outdoor_trees",
+            "friendly_name": "Outdoor Trees"
+        }
+    }
+]
