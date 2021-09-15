@@ -17,10 +17,10 @@
                 Indoor
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Cacti</a>
-                <a href="" class="dropdown-item">Ferns</a>
-                <a href="" class="dropdown-item">Trees</a>
-                <a href="" class="dropdown-item">All Indoor</a>
+                <a href="{% url 'products' %}?category=cacti" class="dropdown-item">Cacti</a>
+                <a href="{% url 'products' %}?category=ferns" class="dropdown-item">Ferns</a>
+                <a href="{% url 'products' %}?category=indoor_trees" class="dropdown-item">Trees</a>
+                <a href="{% url 'products' %}?category=cacti,ferns,indoor_trees" class="dropdown-item">All Indoor</a>
             </div>
         </li>
 
@@ -29,10 +29,10 @@
                 Outdoor
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Hanging</a>
-                <a href="" class="dropdown-item">Palms</a>
-                <a href="" class="dropdown-item">Trees</a>
-                <a href="" class="dropdown-item">All Outdoor</a>
+                <a href="{% url 'products' %}?category=hanging" class="dropdown-item">Hanging</a>
+                <a href="{% url 'products' %}?category=palms" class="dropdown-item">Palms</a>
+                <a href="{% url 'products' %}?category=outdoor_trees" class="dropdown-item">Trees</a>
+                <a href="{% url 'products' %}?category=hanging,palms,outdoor_trees" class="dropdown-item">All Outdoor</a>
             </div>
         </li>
     </ul>
