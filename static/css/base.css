@@ -28,25 +28,38 @@ body {
 }
 
 .shop-plants-button {
-    color: white;
+    color: #ffffff;
     min-width: 260px;
 }
 
-.btn-black {
-    background: black;
-    color: white;
+.btn-green {
+    background: #20847c;
+    color: #ffffff;
+}
+
+.btn-outline-charcoal {
+    background: #ffffff;
+    color: #313232 !important; /* use important to override link colors for <a> elements */
+    border: 1px solid #313232;
+}
+
+.btn-outline-charcoal:hover,
+.btn-outline-charcoal:active,
+.btn-outline-charcoal:focus {
+    background: #313232;
+    color: #ffffff !important;
 }
 
 .bg-green {
     background-color: #20847c;
 }
 
-.shop-now-button:hover,
-.shop-now-button:active,
-.shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
+.shop-plants-button:hover,
+.shop-plants-button:active,
+.shop-plants-button:focus,
+.btn-green:hover,
+.btn-green:active,
+.btn-green:focus {
     background: #222;
     color: white;
 }
@@ -76,6 +89,10 @@ body {
 a.category-badge > span.badge:hover {
     background: #20847c !important;
     color: #fff !important;
+}
+
+.btt-link {
+    cursor: pointer;
 }
 
 /* -------------------------------- Media Queries */
