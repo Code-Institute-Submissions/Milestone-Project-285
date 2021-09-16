@@ -5,9 +5,9 @@
                 All Plants
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">By Price</a>
-                <a href="" class="dropdown-item ">By Rating</a>
-                <a href="" class="dropdown-item ">By Category</a>
+                <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
+                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">By Rating</a>
+                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Category</a>
                 <a href="{% url 'products' %}" class="dropdown-item">All Plants</a>
             </div>
         </li>
@@ -16,7 +16,7 @@
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="indoor-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Indoor
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
+            <div class="dropdown-menu border-0" aria-labelledby="indoor-link">
                 <a href="{% url 'products' %}?category=cacti" class="dropdown-item">Cacti</a>
                 <a href="{% url 'products' %}?category=ferns" class="dropdown-item">Ferns</a>
                 <a href="{% url 'products' %}?category=indoor_trees" class="dropdown-item">Trees</a>
@@ -28,7 +28,7 @@
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="outdoor-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Outdoor
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
+            <div class="dropdown-menu border-0" aria-labelledby="outdoor-link">
                 <a href="{% url 'products' %}?category=hanging" class="dropdown-item">Hanging</a>
                 <a href="{% url 'products' %}?category=palms" class="dropdown-item">Palms</a>
                 <a href="{% url 'products' %}?category=outdoor_trees" class="dropdown-item">Trees</a>
