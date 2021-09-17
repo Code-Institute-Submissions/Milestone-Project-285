@@ -72,6 +72,10 @@ body {
     color: #313232 !important;
 }
 
+.text-green {
+    color: #20847c !important;
+}
+
 .border-black {
     border: 1px solid #000000 !important;
 }
@@ -91,12 +95,12 @@ a.category-badge > span.badge:hover {
     color: #fff !important;
 }
 
-.btt-link {
+.update-link,
+.remove-item {
     cursor: pointer;
 }
 
-.increment-qty,
-.decrement-qty {
+.qty-btn {
     height: 38px;
 }
 

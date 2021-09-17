@@ -44,7 +44,7 @@
                     <div class="col-12 col-md-6 order-md-first">
                         <p class="text-muted mt-3 text-center text-md-left text-charcoal">
                             {% if search_term or current_categories or current_sorting != 'None_None' %}
-                                <span class="small"><a class="text-charcoal" href="{% url 'products' %}">All Plants</a> | </span>
+                                <span class="small"><a class="text-green" href="{% url 'products' %}">All Plants</a> | </span>
                             {% endif %}
                             {{ products|length }} Results{% if search_term %} found for <strong>"{{ search_term }}"</strong>{% endif %}
                         </p>
