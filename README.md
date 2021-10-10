@@ -20,7 +20,7 @@ Pacific Plants is an e-commerce site that sells both indoor and outdoor plants.
 <br>
 Please see below for the link to the website.
 
-https://?????.herokuapp.com/
+https://pacificplants.herokuapp.com/
 <br>
 <br>
 
@@ -61,14 +61,16 @@ As an admin user I want to:
 #### Colour Scheme
 White - Navigation bar, background and button text.
 <br>
+Off White - Background colour.
+<br>
 Black - Navigation bar text.
 <br>
-Charcoal - Header and body text.
+Charcoal - Header and body text. Button hover effect.
 <br>
-Green - Buttons, icons and footer.
+Green - Buttons, icons and links.
 <br>
 #### Typography
-Oswald - This font will be used throughout the whole webpage, this is because it looks clean, professional and is easy to read.
+Roboto - This font will be used throughout the whole webpage, this is because it looks clean, professional and is easy to read.
 <br>
 #### Wireframes
 To see the wireframes for all pages on both desktop and mobile view please click the below link.
@@ -78,25 +80,33 @@ To see the wireframes for all pages on both desktop and mobile view please click
 #### Features
 * ?????
 
-## Technologies
+## Technologies Used
 
-* **HTML** - Used to structure the project.
-* **CSS** - Used to style the project.
-* **JavaScript** - 
-* **Python** - Used to create the backend of the project.
-* **Django** - 
-* **JQuery** - 
-* **Bootstrap** - 
-* **Stripe** - 
-* **Font Awesome** - Used to import fonts and icons.
-* **GitHub** - Used to store code for the project.
-* **GitPod** - Used to create the code for the project.
-* **Heroku** - Used to deploy the project.
-* **Amazon Web Services** - 
-* **Google Chrome Developer Tools** - Used to inspect the web pages and debug any issues.
-* **Balsamiq Wireframes** - Used to create the wireframes for the project.
-<br>
+### Languages Used
 
+- HTML
+- CSS
+- JavaScript
+- Python
+
+### Frameworks, Libraries & Programs Used
+
+**Front-End**
+* Bootstrap
+* Font-Awesome
+* Google Fonts
+* jQuery
+* Balsamiq
+
+**Back-end**
+* Django
+* Stripe
+
+**Deployment**
+* Heroku
+* AWS
+* Github
+* Gitpod
 
 ## Testing
 
