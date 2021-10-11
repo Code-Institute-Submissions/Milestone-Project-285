@@ -18,6 +18,9 @@ The purpose of this project is to showcase everything I have learned within the 
 Pacific Plants is an e-commerce site that sells both indoor and outdoor plants. 
 <br>
 <br>
+DISCLAIMER: This website is for educational purposes only and uses products and content from an existing brand. Please see the credits section for full information.
+<br>
+<br>
 Please see below for the link to the website.
 
 https://pacificplants.herokuapp.com/
@@ -381,10 +384,11 @@ Run the following in the command line
 ## Credits
 
 ### Content
-?????
+- [Patch Plants](https://www.patchplants.com/gb/en/) - Product details and images have been taken from Patch Plants. 
 
 ### Code
-All code from external sources have been attributed to its original source via comments above the code.
+- [Code Institute](https://www.codeinstitute.net/) - Code learnt from the Full Stack Web Developer course has been implemented in this project.
+
 
 
 
