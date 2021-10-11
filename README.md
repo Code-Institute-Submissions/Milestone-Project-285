@@ -42,7 +42,7 @@ As a casual user I want to:
 * View items and total cost in shopping cart.
 * Adjust quantity of product if needed.
 * Remove a product from the shopping cart. 
-* Receive confirmation when an action as been performed.
+* Receive confirmation when an action has been performed.
 * Easily enter payment information and checkout.
 <br>
 
@@ -81,7 +81,14 @@ To see the wireframes for all pages on both desktop and mobile view please click
 [Wireframes](wireframes/wireframes.pdf)
 <br>
 #### Features
-* ?????
+* Navigation Bar - Remains at the top of the page so it is always accessible. It categorizes the products and is collapsible on mobile devices.
+* Search Bar - Allows the user to search a product by name or category.
+* Toasts - Provides feedback to the user by displaying a message in the top right of the screen.
+* Sorting - Products can be sorted by price, rating, name and category.
+* Shopping Bag - Users can add, update and remove products from the shopping bag.
+* Checkout - Users can fill in their information into a form to purchase a product. This information can be saved to their profile page.
+* User Profile - Users can register and login to the site. The user profile displays order history and their information if they chose to save it.
+* Admin User - An admin user has permissions to add, edit and delete products.
 
 ## Technologies Used
 
@@ -172,7 +179,7 @@ This project was developed on Github, using Gitpod as IDE. It was deployed on He
 
 ### Requirements
 
-You will need the following in your IDE enviroment:
+You will need the following in your IDE environment:
 
 1. Git
 1. Python3
@@ -272,7 +279,7 @@ Run the following in the command line
         ]
         ```
     - In "Bucket Policy", select policy generator
-        - Select "Type of Policy" should be "S3 Buckey Policy"
+        - Select "Type of Policy" should be "S3 Bucket Policy"
         - Type ```*``` in the "Principal" field
         - Select "get object" from the "Actions" dropdown
         - Input your ARN from the previous tab into the "ARN" field
@@ -284,9 +291,9 @@ Run the following in the command line
         - Go back to the services menu at the top of the screen, and open IAM
         - Click on "User Groups" in the site bar and create a new group by inputting a group name
         - Check "Next Step" and then "Create Group"
-        - Click on "Policies" in teh side bar in then "Create policy"
+        - Click on "Policies" in the side bar in then "Create policy"
         - Select the "JSON" tab, and "Import managed policy"
-        - In the search bar, search for "s3" and then import the "s3 full acccess policy"
+        - In the search bar, search for "s3" and then import the "s3 full access policy"
         - We only want full access to our Bucket, go back to copy your ARNs from before and add it within the resource brackets
           ```
             {
@@ -320,7 +327,7 @@ Run the following in the command line
 
 1. Go to [Gmail](http://www.gmail.com)
 2. Either log in if you already have an account, or sign up
-3. Go the account settings in the uppser right, and click "accounts and import" and then "other google account settings"
+3. Go the account settings in the upper right, and click "accounts and import" and then "other google account settings"
 4. Go to the security tab and under "signing into google" turn on "2-step verification"
 5. Click "Get started", enter your password and have them send you a verification code
 6. Once you are verified, turn on two step verification
