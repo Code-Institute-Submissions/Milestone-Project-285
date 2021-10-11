@@ -90,7 +90,7 @@ To see the wireframes for all pages on both desktop and mobile view please click
 * User Profile - Users can register and login to the site. The user profile displays order history and their information if they chose to save it.
 * Admin User - An admin user has permissions to add, edit and delete products.
 
-## Technologies Used
+## Technologies
 
 ### Languages Used
 
