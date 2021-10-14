@@ -139,60 +139,45 @@ Test card details:
 <br>
 * Every page has a sticky navigation bar which allows the user to easily access any page they want at all times.
 * The navigation bar contains a search bar which allows the user to search for a product by name or category.
-![alt text](?????)
-<br>
 <br>
 
 **User Story** – View all products available and filter/sort products.
 <br>
 * The navigation bar gives the user the option to view all products, filter them by category and sort by price, rating and category.
 * The user can also sort the products when on the products page.
-![alt text](?????)
-<br>
 <br>
 
 **User Story** – View individual product details and select quantity of a product.
 <br>
 * When a user clicks on a product it will display more information about the selected product. If the image is clicked on it will enlarge the image in a new tab.
 * From this page the user can select the desired quantity and add the item to the shopping bag.
-![alt text](?????)
-<br>
 <br>
 
 **User Story** – View items in shopping bag and the total cost. Also the option to amend the bag if needed.
 <br>
 * Users can view items added and total cost by navigating to the shopping bag page. This information will also be displayed in the top right of the page when a new item has been added to the bag.
 * From the shopping bag page a user can edit the quantity of an item as well as delete an item.
-![alt text](?????)
-<br>
 <br>
 
 **User Story** – Receive confirmation when an action has been performed.
 <br>
 * Users will receive a notification in the top right of the screen when an important action has been performed.
-![alt text](?????)
-<br>
 <br>
 
 **User Story** – Easily enter payment information and checkout.
 <br>
 * When the user is ready to checkout they will need to simply enter their personal information into a form to complete the purchase.
-![alt text](?????)
-<br>
 <br>
 
 **User Story** – Save/edit profile information for next purchase and check previous purchases.
 <br>
 * A registered user can access their profile page which will display their saved information as well as their order history. From this page they can also edit their information.
-![alt text](?????)
-<br>
 <br>
 
 **User Story** – Add, edit and delete a product.
 <br>
 * An admin user can access the product management page which will allow them to add a new product.
 * An admin user can also find an existing product and edit/delete it.
-![alt text](?????)
 <br>
 
 ## Supported Browsers And Devices
