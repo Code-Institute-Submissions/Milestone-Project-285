@@ -120,6 +120,11 @@ To see the wireframes for all pages on both desktop and mobile view please click
 
 ## Testing
 
+Test card details:
+* **Card Number:** 4242 4242 4242 4242
+* **Expiration Date, CVC, ZIP:** Any integer.
+<br>
+
 ### Code Validation
 
 * HTML files have been validated using the W3C HTML Validation Service website.
@@ -188,12 +193,6 @@ To see the wireframes for all pages on both desktop and mobile view please click
 * An admin user can access the product management page which will allow them to add a new product.
 * An admin user can also find an existing product and edit/delete it.
 ![alt text](?????)
-<br>
-<br>
-
-### Additional Testing
-
-* ?????
 <br>
 
 ## Supported Browsers And Devices
